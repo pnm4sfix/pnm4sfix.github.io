@@ -4,7 +4,7 @@ A clean, minimalist academic website for an early-career neuroscientist, built w
 
 ## 🌐 Live Site
 
-Visit the site at: [https://piercemullen.github.io](https://pnm4sfix.github.io)
+Visit the site at: [https://pnm4sfix.github.io](https://pnm4sfix.github.io)
 
 ## ✨ Features
 
